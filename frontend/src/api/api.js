@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "http://localhost:5000/api", // Backend URL
+  baseURL: "/api", // relative path, works on deployed Render app
 });
 
 export default API;
