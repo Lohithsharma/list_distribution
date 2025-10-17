@@ -85,10 +85,7 @@ npm install
 npm run build
 npm start              # Start the frontend server
 
-
-Backend runs on http://localhost:5000 (default)
-
-Frontend runs on http://localhost:3000 (default)
+you'll be redirected to frontend page at port:5000
 
 Demo Video
 
